@@ -1,0 +1,1 @@
+The Tailwind Discord Clone is a visually appealing and responsive web application that emulates the user interface and functionality of the popular communication platform, Discord. Built entirely with Tailwind CSS, this clone showcases the power and flexibility of the utility-first CSS framework.
